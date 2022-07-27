@@ -10,26 +10,23 @@
   </a>
   <br>
   <p>
-    <a href="http://weibo.com/pc175">
+    <a href="http://weibo.com/zouhuigang">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" />
     </a>
-    <a href="https://twitter.com/jaywcjlove">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
-    </a>
-    <a href="mailto:wowohoo@qq.com">
+    <a href="mailto:952750120@qq.com">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
   <p>生命如同攀岩，只有踏实每一步，才能冲出荆棘，排除万难，抬头便是成功的彼岸.</p>
   <p>
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-readme-stats.vercel.app/api?username=jaywcjlove&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <a href="https://blog.anooc.com/">
+      <img src="https://github-readme-stats.vercel.app/api?username=zouhuigang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
   
   <p>
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-profile-trophy.vercel.app/?username=jaywcjlove&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+    <a href="https://blog.anooc.com/">
+      <img src="https://github-profile-trophy.vercel.app/?username=zouhuigang&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
     </a>
   </p>
   
