@@ -1,4 +1,4 @@
-[Weibo](http://weibo.com/pc175) • [Twitter](https://twitter.com/jaywcjlove) • [E-Mail](mailto:wowohoo@qq.com) • [Sponsor](https://wangchujiang.com/sponsor.html)
+[E-Mail](mailto:952750120@qq.com) • [github](https://github.com/zouhuigang)
 
 <div align="center">
   <br>
@@ -6,7 +6,7 @@
   <br>
   <br>
   <a href="https://wangchujiang.com/">
-    <img width="60" height="60" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/15059874?v=4" />
   </a>
   <br>
   <p>
