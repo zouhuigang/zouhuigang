@@ -56,12 +56,12 @@ project | homepage | stars | last commit | downloads | version
 
 <!--repos-end-->
 
-  <img src="https://profile-counter.glitch.me/jaywcjlove/count.svg" />
-  <img src="https://komarev.com/ghpvc/?username=jaywcjlove&color=green" />
+  <img src="https://profile-counter.glitch.me/zouhuigang/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=zouhuigang&color=green" />
 
 </details>
 
-[**Web Tool**](https://jaywcjlove.github.io/tools) • 
-[json-viewer](https://uiwjs.github.io/json-viewer/) • 
-[URL Decoder/Encoder](https://jaywcjlove.github.io/url-encode)
+**工具推荐** • 
+[WindTerm](https://github.com/kingToolbox/WindTerm) • 
+[regex101](https://regex101.com/)
 
