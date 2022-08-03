@@ -52,7 +52,7 @@ project | homepage | stars | last commit | downloads | version
 project | homepage | stars | last commit | downloads | version 
 :--- | --- | :--- | :--- | :--- | :--- 
 [linux-command](https://github.com/jaywcjlove/linux-command) | [`#homepage`](https://jaywcjlove.github.io/linux-command) | [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command?style=flat)](https://github.com/jaywcjlove/linux-command/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/linux-command?style=flat&label=last)](https://github.com/jaywcjlove/linux-command/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/linux-command.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/linux-command) | [![npm version](https://img.shields.io/npm/v/linux-command.svg?logo=npm)](https://www.npmjs.com/package/linux-command)
-[map-manager-report-location](https://github.com/jaywcjlove/map-manager-report-location) | - | [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/map-manager-report-location?style=flat)](https://github.com/jaywcjlove/map-manager-report-location/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/map-manager-report-location?style=flat&label=last)](https://github.com/jaywcjlove/map-manager-report-location/commits) | - | ![GitHub package version](https://img.shields.io/github/v/tag/jaywcjlove/map-manager-report-location?style=flat&label=&labelColor=555&logo=github)
+[epoll-demo](https://github.com/zouhuigang/epoll-demo) | - | - | - | - | 
 
 <!--repos-end-->
 
