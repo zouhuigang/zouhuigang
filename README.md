@@ -35,24 +35,23 @@
 </div>
 
 <details>
-<summary>More Repositories ...</summary>
+<summary>更多推荐...</summary>
 
-<!--repos-handbook-start-->
+<!--公开库-->
 
-project | homepage | stars | last commit | downloads | version 
+项目 | 主页 | 关注 | 最后提交 | 下载 | 版本 
 :--- | --- | :--- | :--- | :--- | :--- 
-[book](https://github.com/zouhuigang/book) | [`#homepage`](https://github.com/zouhuigang/book/issues) | [![GitHub stars](https://img.shields.io/github/stars/zouhuigang/book?style=flat)](https://github.com/zouhuigang/book/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/zouhuigang/book?style=flat&label=last)](https://github.com/zouhuigang/book/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-mac.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-mac) | [![npm version](https://img.shields.io/npm/v/awesome-mac.svg?logo=npm)](https://www.npmjs.com/package/awesome-mac)
+[技术书籍推荐](https://github.com/zouhuigang/book) | [`#homepage`](https://github.com/zouhuigang/book/issues) | [![GitHub stars](https://img.shields.io/github/stars/zouhuigang/book?style=flat)](https://github.com/zouhuigang/book/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/zouhuigang/book?style=flat&label=last)](https://github.com/zouhuigang/book/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-mac.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-mac) | [![npm version](https://img.shields.io/npm/v/awesome-mac.svg?logo=npm)](https://www.npmjs.com/package/awesome-mac)
+<!--公开库-->
 
+<!--私人库-->
 
-<!--repos-handbook-end-->
+项目 | 主页
+:--- | ---
+[epoll-demo](https://github.com/zouhuigang/epoll-demo) | - |
+[浏览器指纹生成及防伪](https://github.com/zouhuigang/browser_fingerprint) | - |
 
-<!--repos-start-->
-
-project | homepage | stars | last commit | downloads | version 
-:--- | --- | :--- | :--- | :--- | :--- 
-[epoll-demo](https://github.com/zouhuigang/epoll-demo) | - | - | - | - | 
-
-<!--repos-end-->
+<!--私人库-->
 
   <img src="https://profile-counter.glitch.me/zouhuigang/count.svg" />
   <img src="https://komarev.com/ghpvc/?username=zouhuigang&color=green" />
