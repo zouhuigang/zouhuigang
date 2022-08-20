@@ -42,7 +42,6 @@
 project | homepage | stars | last commit | downloads | version 
 :--- | --- | :--- | :--- | :--- | :--- 
 [book](https://github.com/zouhuigang/book) | [`#homepage`](https://github.com/zouhuigang/book/issues) | [![GitHub stars](https://img.shields.io/github/stars/zouhuigang/book?style=flat)](https://github.com/zouhuigang/book/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/zouhuigang/book?style=flat&label=last)](https://github.com/zouhuigang/book/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-mac.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-mac) | [![npm version](https://img.shields.io/npm/v/awesome-mac.svg?logo=npm)](https://www.npmjs.com/package/awesome-mac)
-[shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) | [`#homepage`](https://jaywcjlove.github.io/shell-tutorial) | [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/shell-tutorial?style=flat)](https://github.com/jaywcjlove/shell-tutorial/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/shell-tutorial?style=flat&label=last)](https://github.com/jaywcjlove/shell-tutorial/commits) | - | ![GitHub package version](https://img.shields.io/github/v/tag/jaywcjlove/shell-tutorial?style=flat&label=&labelColor=555&logo=github)
 
 
 <!--repos-handbook-end-->
@@ -51,7 +50,6 @@ project | homepage | stars | last commit | downloads | version
 
 project | homepage | stars | last commit | downloads | version 
 :--- | --- | :--- | :--- | :--- | :--- 
-[linux-command](https://github.com/jaywcjlove/linux-command) | [`#homepage`](https://jaywcjlove.github.io/linux-command) | [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command?style=flat)](https://github.com/jaywcjlove/linux-command/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/linux-command?style=flat&label=last)](https://github.com/jaywcjlove/linux-command/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/linux-command.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/linux-command) | [![npm version](https://img.shields.io/npm/v/linux-command.svg?logo=npm)](https://www.npmjs.com/package/linux-command)
 [epoll-demo](https://github.com/zouhuigang/epoll-demo) | - | - | - | - | 
 
 <!--repos-end-->
