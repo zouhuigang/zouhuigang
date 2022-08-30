@@ -52,8 +52,9 @@
 :--- | ---
 [epoll-demo](https://github.com/zouhuigang/epoll-demo) | - |
 [浏览器指纹生成及防伪](https://github.com/zouhuigang/browser_fingerprint) | - |
-[zantui](https://github.com/zouhuigang/zantui)| - |
+[zantui](https://github.com/zouhuigang/zantui)| 前端组件库 |
 [anooc工具网站](https://github.com/zouhuigang/anooc-public-api)| 从0到1历时一年的学习项目，涉及二维码识别、图形特效处理、markdown编辑器，手机号归属地查询等多种工具前后端实现|
+[zform前端表单提交组件](https://github.com/zouhuigang/zform)| 让前端小白也能很方便的实现表单的各种功能，验证、提交、短信验证码倒计时等 |
 
 <!--私人库-->
 
