@@ -52,6 +52,8 @@
 :--- | ---
 [epoll-demo](https://github.com/zouhuigang/epoll-demo) | - |
 [浏览器指纹生成及防伪](https://github.com/zouhuigang/browser_fingerprint) | - |
+[zantui](https://github.com/zouhuigang/zantui)| - |
+[anooc工具网站](https://github.com/zouhuigang/anooc-public-api)| 从0到1历时一年的学习项目，涉及二维码识别、图形特效处理、markdown编辑器，手机号归属地查询等多种工具前后端实现|
 
 <!--私人库-->
 
