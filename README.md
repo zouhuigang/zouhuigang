@@ -39,7 +39,7 @@
 
 <!--公开库-->
 
-项目 | 主页 | 关注 | 最后提交 | 下载 | 版本 
+公开项目 | 主页 | 关注 | 最后提交 | 下载 | 版本 
 :--- | --- | :--- | :--- | :--- | :--- 
 [技术书籍推荐](https://github.com/zouhuigang/book) | [`#homepage`](https://github.com/zouhuigang/book/issues) | [![GitHub stars](https://img.shields.io/github/stars/zouhuigang/book?style=flat)](https://github.com/zouhuigang/book/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/zouhuigang/book?style=flat&label=last)](https://github.com/zouhuigang/book/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/awesome-mac.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/awesome-mac) | [![npm version](https://img.shields.io/npm/v/awesome-mac.svg?logo=npm)](https://www.npmjs.com/package/awesome-mac)
 [kubernetes早期实践](https://github.com/zouhuigang/kubernetes)| [`#homepage`](https://github.com/zouhuigang/kubernetes) | - | - | - | - 
@@ -48,7 +48,7 @@
 
 <!--私人库-->
 
-项目 | 主页
+私人项目 | 主页
 :--- | ---
 [epoll-demo](https://github.com/zouhuigang/epoll-demo) | - |
 [浏览器指纹生成及防伪](https://github.com/zouhuigang/browser_fingerprint) | - |
