@@ -48,7 +48,7 @@
 
 <!--私人库-->
 
-私人项目 | 主页
+非公开项目 | 主页
 :--- | ---
 [神盾反爬网关](https://github.com/zouhuigang/shield-gateway) | 自研集成waf功能的网关 |
 [神盾反爬字体](https://github.com/zouhuigang/shield-font-make) | webassembly字体反爬、隐射加解密等 |
