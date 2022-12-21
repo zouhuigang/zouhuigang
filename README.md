@@ -50,6 +50,9 @@
 
 私人项目 | 主页
 :--- | ---
+[神盾反爬网关](https://github.com/zouhuigang/shield-gateway) | 自研集成waf功能的网关 |
+[神盾反爬字体](https://github.com/zouhuigang/shield-font-make) | webassembly字体反爬、隐射加解密等 |
+[神盾行为验证码生成](https://github.com/zouhuigang/shield-sdk-rust) | 提供滑块、防破解等验证图案生成 |
 [epoll-demo](https://github.com/zouhuigang/epoll-demo) | - |
 [浏览器指纹生成及防伪](https://github.com/zouhuigang/browser_fingerprint) | - |
 [zantui](https://github.com/zouhuigang/zantui)| 前端组件库 |
