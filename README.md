@@ -18,7 +18,11 @@
     </a>
   </p>
   <p>生命如同攀岩，只有踏实每一步，才能冲出荆棘，排除万难，抬头便是成功的彼岸.</p>
-  <p><video src="https://oss.lldxhm.site:9001/note/570_1721698396_raw.mp4"></video></p>
+  <p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://oss.lldxhm.site:9001/note/570_1721698396_raw.mp4" />
+</picture>
+</p>
   <p>
     <a href="https://blog.anooc.com/">
       <img src="https://github-readme-stats.vercel.app/api?username=zouhuigang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
